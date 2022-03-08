@@ -1,0 +1,15 @@
+{
+    "name": "pyxel-palettes",
+    "displayName": "Pyxel Palettes",
+    "description": "A palette from Pyxel - retro game engine for Python",
+    "version": "1.0",
+    "publisher": "aseprite",
+    "categories": [
+        "Palettes"
+    ],
+    "contributes": {
+        "palettes": [
+            { "id": "Pyxel", "path": "./pyxel.gpl" }
+        ]
+    }
+}
