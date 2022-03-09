@@ -7,5 +7,6 @@ Pyxel palette extension for Aseprite
 
 ## Installation
 
-Download the file `pyxel-palettes.aseprite-extension` from release page
+Download the file `pyxel-palettes.aseprite-extension`
+from the release page ( https://github.com/eqs/pyxel-palettes/releases )
 and follow official introduction: https://www.aseprite.org/docs/extensions/
